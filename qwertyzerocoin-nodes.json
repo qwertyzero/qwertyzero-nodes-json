@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "name": "Qwerty Zero Node",
+      "url": "vm968930.had.wf",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Res. Qwerty Zero",
+      "url": "vm968926.had.wf",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Res.2 Qwerty Zero",
+      "url": "vm973584.had.wf",
+      "port": 11898,
+      "ssl": false,
+      "cache": true
+    }
+  ]
+}
